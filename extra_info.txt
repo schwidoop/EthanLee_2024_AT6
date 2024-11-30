@@ -1,0 +1,7 @@
+UserInputValidator.py provides a class of the same name.
+The class comes with the method validate_positive_integers(list) where the a list is parsed as an argument.
+The method returns a list consisting of only the positive integers whether they were contained in strings or not.
+All items will be converted to type integer.
+After validation, the method will print a success message to console.
+
+To use, simply create an instance of UserInputValidator and call validate_positive_integers() with the list you wish to validate.
